@@ -1,1 +1,1 @@
-DOMAIN=https://kt-kiyoshi.com/pkm
+DOMAIN=https://kt-kiyoshi.com/pkmn
